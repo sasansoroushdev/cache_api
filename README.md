@@ -1,5 +1,5 @@
 # cache_api
 
-very simple Redis-based distributed caching with ASP.NET Core Web API.
+Very simple Redis-based distributed caching with ASP Core Web API.
 
-install Redis-Server on your system and place connection-string in config file
+Install Redis-Server on your machine and change the connection-string in config file
